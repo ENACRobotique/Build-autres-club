@@ -1,5 +1,5 @@
 # Build-autres-club
-On range ici des projet réalisé pour les autres club : logo laser par exmple
+On range ici des projets réalisés pour les autres club (découpe de logo laser par exemple)
 
 
-Pour la découpe laser utilisez le logiciel lasercut directelent sous windows ou avec wine pour linux et mac ( config wine dans le répo)
+Pour la découpe laser utilisez le logiciel lasercut directement sous windows ou avec wine pour linux et mac ( config wine dans le répo)
